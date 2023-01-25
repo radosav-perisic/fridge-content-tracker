@@ -2,7 +2,7 @@ import React from 'react';
 
 import './ProductsList.css';
 
-const ProductList = props => {
+const ProductList = React.memo(props => {
   return (
     <section className="product-list">
       <h2>Loaded Products</h2>
@@ -16,6 +16,6 @@ const ProductList = props => {
       </ul>
     </section>
   );
-};
+});
 
 export default ProductList;
