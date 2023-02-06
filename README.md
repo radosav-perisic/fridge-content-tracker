@@ -1,4 +1,5 @@
-# Pantry Tracker is a sleek and simple app that allows you to easily keep track of your pantry's contents. No more wasting time trying to figure out what you have on hand or risking throwing out expired food items. With Pantry Tracker, you can have a clear overview of what you have in your pantry at all times.
+# Pantry Tracker
+Pantry Tracker is a sleek and simple app that allows you to easily keep track of your pantry's contents. No more wasting time trying to figure out what you have on hand or risking throwing out expired food items. With Pantry Tracker, you can have a clear overview of what you have in your pantry at all times.
 
 ## Key Features
 Intuitive User Interface: The app's interface is user-friendly and easy to navigate, so you can quickly add, view, and manage your pantry's contents with ease.
