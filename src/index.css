@@ -9,18 +9,28 @@ html,body {
   margin: 0;
 }
 
+body {
+  background-image: url('https://assets.epicurious.com/photos/5af20ff732c9206db5f1a0e3/16:9/w_2560%2Cc_limit/Organizational-Package-Hero-25022018.gif');
+  background-size: 1820px 1080px;
+  background-repeat: no-repeat;
+}
+
 button {
   font: inherit;
-  background: #2bc2f5;
+  background: #cbb71c;
   padding: 0.5rem 2rem;
-  color: white;
-  border: 1px solid #2bc2f5;
+  color: rgb(255, 255, 255);
+  border: 1px solid #f3b95c;
   margin: 0.5rem 0;
   border-radius: 5px;
   cursor: pointer;
 }
 
-button:hover,
+button:hover {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+  background: #65470e;
+}
+
 button:active {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
 }
