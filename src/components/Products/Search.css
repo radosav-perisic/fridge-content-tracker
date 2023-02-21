@@ -2,6 +2,8 @@
   width: 30rem;
   margin: 2rem auto;
   max-width: 80%;
+  background-color: #e1853f;
+  border-radius: 50px
 }
 
 .search-input {
@@ -16,11 +18,12 @@
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 0.15rem 0.25rem;
+  background-color: #faeabb;
 }
 
 .search-input input:focus {
   outline: none;
-  border-color: #2bc2f5;
+  border-color: #eef52b;
 }
 
 @media (min-width: 768px) {
