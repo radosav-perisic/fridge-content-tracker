@@ -18,6 +18,7 @@ const ProductForm = React.memo(props => {
       <Card>
         <form onSubmit={submitHandler}>
           <div className="form-control">
+            <h1>Product Generator</h1>
             <label htmlFor="title">Name</label>
             <input
               type="text"
